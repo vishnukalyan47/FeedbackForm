@@ -2,4 +2,4 @@
 
 ## Images
 
-### *Images (vkk1,vkk2,vkk2) can be use accordingly*
+### *Images (vkk1.jpg, vkk2.jpg, vkk4.jpg) can be use accordingly*
